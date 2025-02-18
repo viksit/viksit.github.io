@@ -3,3 +3,4 @@ description: "A simple blog using GitHub Pages"
 theme: minima  # You can change this to a different Jekyll theme if needed
 permalink: /posts/:title/
 markdown: kramdown
+version: 2

@@ -1,0 +1,5 @@
+title: "Viksit's Blog"
+description: "A simple blog using GitHub Pages"
+theme: minima  # You can change this to a different Jekyll theme if needed
+permalink: /posts/:title/
+markdown: kramdown
